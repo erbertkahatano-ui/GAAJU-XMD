@@ -1,100 +1,32 @@
-🚀 GAAJU-XMD
+<p align="center">
+<img src="YOUR_BANNER_IMAGE_LINK">
+</p>
 
-«A Powerful Multi-Device WhatsApp Bot Built For Speed, Performance & Simplicity.»
+<h1 align="center">🚀 GAAJU-XMD 🚀</h1>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/BEST MULTI DEVICE BOT-cyan?style=for-the-badge">
+<img src="https://img.shields.io/badge/Developer-Chris Gaaju-black?style=for-the-badge">
+</p>
 
-📱 GET SESSION ID
+## SESSION ID
 
-PAIR CODE
+[![PAIR CODE](https://img.shields.io/badge/PAIR-CODE-cyan?style=for-the-badge)](https://gaaju-ultra-pair-ljtv.onrender.com)
 
-🔗 Get Session ID Here
-https://gaaju-ultra-pair-ljtv.onrender.com
+[![QR CODE](https://img.shields.io/badge/QR-CODE-black?style=for-the-badge)](https://gaaju-ultra-pair-ljtv.onrender.com)
 
-QR CODE
+## DEPLOY
 
-🔗 Alternative Session Website
-https://gaaju-ultra-pair-ljtv.onrender.com
+[![RENDER](https://img.shields.io/badge/RENDER-cyan?style=for-the-badge)](YOUR_RENDER_LINK)
 
----
+[![RAILWAY](https://img.shields.io/badge/RAILWAY-black?style=for-the-badge)](YOUR_RAILWAY_LINK)
 
-🚀 DEPLOYMENTS
+[![KOYEB](https://img.shields.io/badge/KOYEB-cyan?style=for-the-badge)](YOUR_KOYEB_LINK)
 
-Choose Any Platform Below:
+## VIDEO
 
-🌐 WEB HOSTS
+[![WATCH TUTORIAL](https://img.shields.io/badge/WATCH-TUTORIAL-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK)
 
-- Render → YOUR_RENDER_LINK
-- Railway → YOUR_RAILWAY_LINK
-- Koyeb → YOUR_KOYEB_LINK
-- Replit → YOUR_REPLIT_LINK
-- Heroku → YOUR_HEROKU_LINK
-- Codespaces → YOUR_CODESPACE_LINK
+## COMMUNITY
 
-🎛️ PANELS
-
-- Katabump → YOUR_KATABUMP_LINK
-- Pterodactyl Panel → YOUR_PANEL_LINK
-- Bot Hosting Panel → YOUR_PANEL_LINK
-- VPS Hosting → YOUR_VPS_LINK
-
----
-
-📺 DEPLOYMENT VIDEO
-
-🎥 Watch Full Deployment Tutorial Here:
-
-YOUR_YOUTUBE_VIDEO_LINK
-
----
-
-📢 COMMUNITY
-
-WhatsApp Channel
-
-📡 https://whatsapp.com/channel/0029VbBvGgyFsn0alyIDjw0z
-
-WhatsApp Group
-
-👥 https://chat.whatsapp.com/K1CZsGzSk6t8Rw4t81fHEI
-
----
-
-✨ FEATURES
-
-✅ Multi-Device Support
-✅ AI ChatBot
-✅ Group Management
-✅ Downloaders
-✅ Games
-✅ Search Commands
-✅ Logo Maker
-✅ Anime Commands
-✅ Audio & Video Tools
-✅ Auto Features
-✅ 500+ Commands
-
----
-
-👑 OWNER
-
-Chris Gaaju
-
-📞 WhatsApp: +2348069675806
-
-🌍 GitHub: https://GitHub.com/Xchristech2 
-
----
-
-⚠️ NOTICE
-
-- Do Not Sell This Script.
-- Give Credits When Re-uploading.
-- Use Responsibly.
-- Developer Is Not Responsible For Misuse.
-
----
-
-⭐ GAAJU-XMD
-
-Fast • Stable • Powerful
+[![WHATSAPP GROUP](https://img.shields.io/badge/WHATSAPP-GROUP
