@@ -547,6 +547,8 @@ async function helpCommand(sock, chatId, message) {
 ║   *🧠 Version: [ ${stats.version || settings.version || '1.0.0'} ]*
 ║   *👑 BotOwner: [ ${settings.botOwner || 'CHRIS GAAJU'} ]*
 ║   *📺 YT Channel: [ ${global.ytch} ]*
+║   *📢 TG Channel: [ https://t.me/chrisgaajutechs ]*
+║   *👥 TG Group: [ https://t.me/official_ChrisGaajuChat ]*
 ║   *📞 OwnerNumber: [ ${settings.ownerNumber} ]*
 ║   *📥 Prefix: [ ${prefix} ]*
 ║   *🎬 Menu Media: [ ${menuType} & AUDIO ]*
@@ -558,7 +560,7 @@ async function helpCommand(sock, chatId, message) {
 ║   *📅 Date: [ ${getLocalizedTime()} ]*
 ║   *📡 Your Platform: [ ${userPlatform} ]*
 ║   *👥 Active Users Now: [ ${stats.activeUsers} ]*
-║   *📊 Total Users All Time: [ ${stats.totalUsers} ]*
+║   *📈 Total Users All Time: [ ${stats.totalUsers} ]*
 ║
 ║   *🌐 Users by Platform:*
 ║   ${platformStatsText}
