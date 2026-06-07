@@ -96,7 +96,7 @@ A Powerful Multi-Device WhatsApp Bot Built For Speed, Stability & Simplicity.
 
 <p align="center">
 
-<a href="https://youtube.com">
+<a href="https://youtu.be/JV4vcawI6fI?si=S4iAnuW5Imlbo94T-">
 <img src="https://img.shields.io/badge/WATCH_DEPLOYMENT_VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
