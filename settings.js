@@ -36,13 +36,13 @@
 // */
 require('dotenv').config();
 const settings = {
-  packname: 'GAAJU-XMD',
-  author: '‎Chris Gaaju',
-  botName: "GAAJU-XMD",
-  botOwner: 'ᴄʜʀɪs ɢᴀᴀᴊᴜ', 
+  packname: 'MAGNATE_XMD',
+  author: '‎MAGNATE_TENCH 
+  botName: "MAGNATE_MD,
+  botOwner: 'ERBERT MAGNATE', 
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '2348069675806', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '255740470186', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
